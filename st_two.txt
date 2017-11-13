@@ -1,3 +1,1 @@
 添加文件到git
-
-git revert  更改； 
